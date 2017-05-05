@@ -25,7 +25,7 @@ public class Launcher {
                 new PassengerCarrier(2000, false)
         ));
 
-        passengerCarriers.stream().forEach(PassengerCarrier::transport);
+        passengerCarriers.forEach(PassengerCarrier::transport);
 
     }
 
