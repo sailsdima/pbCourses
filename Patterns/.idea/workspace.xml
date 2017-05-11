@@ -13,7 +13,7 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Launcher.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Launcher.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/task3/Launcher.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
@@ -29,115 +29,6 @@
             <state relative-caret-position="396">
               <caret line="22" column="58" lean-forward="false" selection-start-line="22" selection-start-column="58" selection-end-line="22" selection-end-column="58" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Launcher.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/task1/Launcher.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="18" column="29" lean-forward="false" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Launcher.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/company/task2/Launcher.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="245">
-              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="JAVA/com.company.task3" pinned="false" current-in-tab="false">
-        <entry file="uml://JAVA/com.company.task3">
-          <provider selected="true" editor-type-id="UmlEditorProvider">
-            <state>
-              <ID>JAVA</ID>
-              <OriginalElement>com.company.task3</OriginalElement>
-              <nodes>
-                <node x="292.0" y="0.0">com.company.task3.TeachingMethod</node>
-                <node x="275.0" y="391.0">com.company.task3.Launcher</node>
-                <node x="169.0" y="106.0">com.company.task3.Learner</node>
-                <node x="385.0" y="285.0">com.company.task3.Student</node>
-                <node x="213.0" y="285.0">com.company.task3.Schoolboy</node>
-                <node x="0.0" y="142.5">com.company.task3.Read</node>
-                <node x="601.0" y="142.5">com.company.task3.Write</node>
-              </nodes>
-              <notes />
-              <edges>
-                <edge source="com.company.task3.Schoolboy" target="com.company.task3.Learner">
-                  <point x="0.0" y="-28.0" />
-                  <point x="289.0" y="260.0" />
-                  <point x="272.0" y="260.0" />
-                  <point x="-103.0" y="64.5" />
-                </edge>
-                <edge source="com.company.task3.Student" target="com.company.task3.Learner">
-                  <point x="0.0" y="-28.0" />
-                  <point x="461.0" y="260.0" />
-                  <point x="478.0" y="260.0" />
-                  <point x="103.0" y="64.5" />
-                </edge>
-                <edge source="com.company.task3.Launcher" target="com.company.task3.Schoolboy">
-                  <point x="-25.0" y="-28.0" />
-                  <point x="350.0" y="361.0" />
-                  <point x="289.0" y="361.0" />
-                  <point x="0.0" y="28.0" />
-                </edge>
-                <edge source="com.company.task3.Write" target="com.company.task3.TeachingMethod">
-                  <point x="0.0" y="-28.0" />
-                  <point x="675.5" y="81.0" />
-                  <point x="430.33333333333337" y="81.0" />
-                  <point x="55.33333333333337" y="28.0" />
-                </edge>
-                <edge source="com.company.task3.Read" target="com.company.task3.TeachingMethod">
-                  <point x="0.0" y="-28.0" />
-                  <point x="74.5" y="81.0" />
-                  <point x="319.6666666666667" y="81.0" />
-                  <point x="-55.333333333333314" y="28.0" />
-                </edge>
-                <edge source="com.company.task3.Learner" target="com.company.task3.TeachingMethod">
-                  <point x="0.0" y="-64.5" />
-                  <point x="0.0" y="28.0" />
-                </edge>
-                <edge source="com.company.task3.Launcher" target="com.company.task3.Write">
-                  <point x="75.0" y="-28.0" />
-                  <point x="450.0" y="371.0" />
-                  <point x="675.5" y="371.0" />
-                  <point x="0.0" y="28.0" />
-                </edge>
-                <edge source="com.company.task3.Launcher" target="com.company.task3.Student">
-                  <point x="25.0" y="-28.0" />
-                  <point x="400.0" y="361.0" />
-                  <point x="461.0" y="361.0" />
-                  <point x="0.0" y="28.0" />
-                </edge>
-                <edge source="com.company.task3.Launcher" target="com.company.task3.Read">
-                  <point x="-75.0" y="-28.0" />
-                  <point x="300.0" y="371.0" />
-                  <point x="74.5" y="371.0" />
-                  <point x="0.0" y="28.0" />
-                </edge>
-              </edges>
-              <settings layout="Hierarchic Group" zoom="1.0" x="59.5" y="156.5" />
-              <SelectedNodes>
-                <node>com.company.task3.Launcher</node>
-              </SelectedNodes>
-              <Categories>
-                <Category>Fields</Category>
-                <Category>Methods</Category>
-                <Category>Inner Classes</Category>
-              </Categories>
-              <SCOPE>All</SCOPE>
-              <VISIBILITY>private</VISIBILITY>
             </state>
           </provider>
         </entry>
@@ -275,10 +166,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="54" />
-    <option name="y" value="-11" />
-    <option name="width" value="1313" />
-    <option name="height" value="780" />
+    <option name="x" value="55" />
+    <option name="y" value="-4" />
+    <option name="width" value="1311" />
+    <option name="height" value="772" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -327,6 +218,28 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Patterns" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Patterns" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="company" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="task3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -335,6 +248,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../paternsexample" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -848,15 +762,16 @@
       <option name="presentableId" value="Default" />
       <updated>1493921355882</updated>
       <workItem from="1493921367588" duration="10036000" />
-      <workItem from="1493980633536" duration="1354000" />
+      <workItem from="1493980633536" duration="4525000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11390000" />
+    <option name="totallyTimeSpent" value="14561000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="54" y="-11" width="1313" height="780" extended-state="6" />
+    <frame x="55" y="-4" width="1311" height="772" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -873,7 +788,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1525553" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1525553" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1118,7 +1033,7 @@
         <state relative-caret-position="434">
           <caret line="27" column="43" lean-forward="false" selection-start-line="27" selection-start-column="43" selection-end-line="27" selection-end-column="43" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1145,6 +1060,62 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/task2/Launcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/task1/Launcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="29" lean-forward="false" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.company.task3">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.company.task3</OriginalElement>
+          <nodes>
+            <node x="" y="">com.company.task3.TeachingMethod</node>
+            <node x="" y="">com.company.task3.Launcher</node>
+            <node x="" y="">com.company.task3.Learner</node>
+            <node x="" y="">com.company.task3.Student</node>
+            <node x="" y="">com.company.task3.Schoolboy</node>
+            <node x="" y="">com.company.task3.Read</node>
+            <node x="" y="">com.company.task3.Write</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="375.0" y="223.5" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Methods</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/task1/Vehicle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" column="58" lean-forward="false" selection-start-line="22" selection-start-column="58" selection-end-line="22" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/task3/Read.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -1156,14 +1127,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/task3/Write.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/task3/Schoolboy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="37" lean-forward="false" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
-          <folding>
-            <element signature="e#154#155#0" expanded="true" />
-            <element signature="e#201#202#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="126">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1173,6 +1141,17 @@
           <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="17" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/task3/Write.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="37" lean-forward="false" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+          <folding>
+            <element signature="e#154#155#0" expanded="true" />
+            <element signature="e#201#202#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1191,130 +1170,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/task3/Schoolboy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/com.company.task3">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>com.company.task3</OriginalElement>
-          <nodes>
-            <node x="292.0" y="0.0">com.company.task3.TeachingMethod</node>
-            <node x="275.0" y="391.0">com.company.task3.Launcher</node>
-            <node x="169.0" y="106.0">com.company.task3.Learner</node>
-            <node x="385.0" y="285.0">com.company.task3.Student</node>
-            <node x="213.0" y="285.0">com.company.task3.Schoolboy</node>
-            <node x="0.0" y="142.5">com.company.task3.Read</node>
-            <node x="601.0" y="142.5">com.company.task3.Write</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="com.company.task3.Schoolboy" target="com.company.task3.Learner">
-              <point x="0.0" y="-28.0" />
-              <point x="289.0" y="260.0" />
-              <point x="272.0" y="260.0" />
-              <point x="-103.0" y="64.5" />
-            </edge>
-            <edge source="com.company.task3.Student" target="com.company.task3.Learner">
-              <point x="0.0" y="-28.0" />
-              <point x="461.0" y="260.0" />
-              <point x="478.0" y="260.0" />
-              <point x="103.0" y="64.5" />
-            </edge>
-            <edge source="com.company.task3.Launcher" target="com.company.task3.Schoolboy">
-              <point x="-25.0" y="-28.0" />
-              <point x="350.0" y="361.0" />
-              <point x="289.0" y="361.0" />
-              <point x="0.0" y="28.0" />
-            </edge>
-            <edge source="com.company.task3.Write" target="com.company.task3.TeachingMethod">
-              <point x="0.0" y="-28.0" />
-              <point x="675.5" y="81.0" />
-              <point x="430.33333333333337" y="81.0" />
-              <point x="55.33333333333337" y="28.0" />
-            </edge>
-            <edge source="com.company.task3.Read" target="com.company.task3.TeachingMethod">
-              <point x="0.0" y="-28.0" />
-              <point x="74.5" y="81.0" />
-              <point x="319.6666666666667" y="81.0" />
-              <point x="-55.333333333333314" y="28.0" />
-            </edge>
-            <edge source="com.company.task3.Learner" target="com.company.task3.TeachingMethod">
-              <point x="0.0" y="-64.5" />
-              <point x="0.0" y="28.0" />
-            </edge>
-            <edge source="com.company.task3.Launcher" target="com.company.task3.Write">
-              <point x="75.0" y="-28.0" />
-              <point x="450.0" y="371.0" />
-              <point x="675.5" y="371.0" />
-              <point x="0.0" y="28.0" />
-            </edge>
-            <edge source="com.company.task3.Launcher" target="com.company.task3.Student">
-              <point x="25.0" y="-28.0" />
-              <point x="400.0" y="361.0" />
-              <point x="461.0" y="361.0" />
-              <point x="0.0" y="28.0" />
-            </edge>
-            <edge source="com.company.task3.Launcher" target="com.company.task3.Read">
-              <point x="-75.0" y="-28.0" />
-              <point x="300.0" y="371.0" />
-              <point x="74.5" y="371.0" />
-              <point x="0.0" y="28.0" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="59.5" y="156.5" />
-          <SelectedNodes>
-            <node>com.company.task3.Launcher</node>
-          </SelectedNodes>
-          <Categories>
-            <Category>Fields</Category>
-            <Category>Methods</Category>
-            <Category>Inner Classes</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/task3/Launcher.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="15" column="18" lean-forward="true" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/task1/Vehicle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="22" column="58" lean-forward="false" selection-start-line="22" selection-start-column="58" selection-end-line="22" selection-end-column="58" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/task1/Launcher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" column="29" lean-forward="false" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/task2/Launcher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
