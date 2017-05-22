@@ -21,21 +21,29 @@ public class Task10 {
     }
 
 
-    private int sum(int[]mass) {
-        int[] buffer = new int[mass.length];
-        while (mass[1] != 0) {
-            for (int i = 0, k = 0; i < mass.length / 2; i++) {
-                buffer[i] = mass[k] + mass[k + 1];
-                k += 2;
-            }
-            mass = buffer;
+    private int sum(Set<Integer> set) {
+
+        if(set.size() == 1){
+            return set.iterator().next();
         }
-        System.out.println(mass);
-        return mass[0];
+
+        Set<Integer> tempSet = new HashSet<>();
+        Iterator<Integer> iterator = set.iterator();
+
+        while(iterator.hasNext()) {
+            int i1 = iterator.next();
+
+            if (iterator.hasNext()) {
+                int i2 = iterator.next();
+                tempSet.add(i1 + i2);
+            } else
+                tempSet.add(i1);
+        }
+        return sum(tempSet);
     }
-    
+
     public void launch(){
-        System.out.println(sum(integers.toArray()));
+        System.out.println(sum(integers));
 
     }
 
