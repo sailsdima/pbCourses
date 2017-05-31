@@ -1,0 +1,5 @@
+Integer 5
+Real 6
+Integer 8
+Real 4.3
+Integer 2.3

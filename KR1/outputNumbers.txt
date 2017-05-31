@@ -1,0 +1,16 @@
+Number. intValue: 0 floatValue: 0.71999997
+Number. intValue: 1 floatValue: 1.0
+Number. intValue: 1 floatValue: 1.0
+Number. intValue: 1 floatValue: 1.0
+Number. intValue: 1 floatValue: 1.7
+Number. intValue: 4 floatValue: 4.0
+Number. intValue: 4 floatValue: 4.0
+Number. intValue: 4 floatValue: 4.0
+Number. intValue: 8 floatValue: 8.0
+Number. intValue: 8 floatValue: 8.5
+Number. intValue: 8 floatValue: 8.6
+Number. intValue: 10 floatValue: 10.0
+Number. intValue: 10 floatValue: 10.0
+Number. intValue: 12 floatValue: 12.959999
+Number. intValue: 18 floatValue: 18.0
+Number. intValue: 25 floatValue: 25.0
